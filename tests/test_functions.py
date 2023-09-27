@@ -21,3 +21,4 @@ def test_majority_element():
 
 def test_filter_dictionary():
     assert filter_dictionary({'apple': 5, 'banana': 3, 'cherry': 8}, 6) == {'cherry': 8}
+    
